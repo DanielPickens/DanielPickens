@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 Thanks for visiting my profile. 
 
 
 **DanielPickens/DanielPickens**
