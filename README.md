@@ -12,7 +12,7 @@
 **DanielPickens/DanielPickens**
 
 
-- 🔭 I’m currently working on ... Getting better at FAANG level algorithms and time complexities
+- 🔭 I’m currently working on ... Getting better at FAANG level algorithms and calculating time complexities
 - 🌱 I’m currently learning ...React,Docker
 - 👯 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ...
