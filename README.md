@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for visiting my profile. 
 
-https://raw.githubusercontent.com/nwthomas/nwthomas/master/assets/dino.gif
+https://raw.githubusercontent.com/dino.gif
 
 **DanielPickens/DanielPickens**
 
