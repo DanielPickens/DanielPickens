@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for visiting my profile. 
 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 **DanielPickens/DanielPickens**
 
