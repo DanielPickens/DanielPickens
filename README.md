@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on ...  FAANG whiteboarding
-- 🌱 I’m currently learning ...React,Docker
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Walking backwards thru a time parallel quantum.
