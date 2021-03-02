@@ -11,7 +11,7 @@
 ![Alt Text](https://media.giphy.com/media/3og0IwoOyuY3ug4xaM/giphy.gif)
 
 
-**DanielPickens/DanielPickens**
+****
 
 
 - 🔭 I’m currently working on ...  Algorithm whiteboarding
