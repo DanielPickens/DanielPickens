@@ -36,4 +36,4 @@
 ![Alt Text](https://media.giphy.com/media/4heseFMvObk9q/giphy.gif)
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidanielpickens)](https://github.com/anuraghazra/github-readme-stats)
