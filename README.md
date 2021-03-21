@@ -34,3 +34,6 @@
 
 
 ![Alt Text](https://media.giphy.com/media/4heseFMvObk9q/giphy.gif)
+
+
+https://github-readme-stats.vercel.app/api?username=danielpickens
