@@ -16,11 +16,11 @@
 ****
 
 
-- 🔭 I’m currently working on ... Deploying Redis Clusters in Kubernetes using Rancher
+- 🔭 I’m currently working on ... Deploying Redis Clusters in Kubernetes using Rancher, a unity video game
 - 🌱 I’m currently learning ...
 - 🗣 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... DevOps containerization and orchestration with Kubernetes 
+- 💬 Ask me about ...  making magic happen with Kubernetes and creating  native React apps
 - 📫 How to reach me: 
 - ⚡ Fun fact: ... 
 -->
