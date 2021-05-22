@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for visiting my profile. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPickens&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPickens&show_icons=true)
 
  
 
