@@ -37,7 +37,6 @@
 ![Alt Text](https://media.giphy.com/media/4heseFMvObk9q/giphy.gif)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielPickens)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielpickens)](https://github.com/anuraghazra/github-readme-stats)
 
 
