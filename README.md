@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for visiting my profile. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&langs_count=8)](https://github.com/DanielPickens/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
 
  
