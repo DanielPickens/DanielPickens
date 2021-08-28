@@ -4,12 +4,8 @@
  
 
  
-![Alt Text](https://media.giphy.com/media/RWJPtq90qOA4E/giphy.gif)
+![Alt Text](https://media.giphy.com/media/4heseFMvObk9q/giphy.gif)
 
-
-
-
-![Alt Text](https://media.giphy.com/media/3og0IwoOyuY3ug4xaM/giphy.gif)
 
 
 ****
