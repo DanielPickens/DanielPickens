@@ -1,9 +1,6 @@
-<p align="center">
-<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
-</p>
 
 
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Daniel 🙋‍♂️.
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Daniel 🙋‍♂️
 
 
 <img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
