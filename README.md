@@ -1,5 +1,5 @@
 <p align="center">
-<img align="" height='150px' src="" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
+<img align="" height='150px' src="" /><img align="" height='150px' src=" />
 </p>
 
 
