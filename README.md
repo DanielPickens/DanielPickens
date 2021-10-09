@@ -1,6 +1,4 @@
-<p align="center">
-<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
-</p>
+
 
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
@@ -37,7 +35,6 @@
 
 |Github Streak|God Bless StackOverflow!|
 |:-----------:|:-----:|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)|[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13949231&theme=dark)](https://stackoverflow.com/users/13949231/aryashah2k)|
 
 
 
