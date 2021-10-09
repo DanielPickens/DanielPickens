@@ -21,6 +21,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPickens&hide=contribs,prs)
 
 
 <p align="center"> 
