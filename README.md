@@ -5,9 +5,6 @@
 
 <img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
 
-|Donate/Support|
-|-----|
-|<a href="https://www.patreon.com/bePatron?u=45451225"><img align="left" alt="Arya Shah - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/aryashah"><img align="left" alt="Arya Shah - Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 |View My Work(In Progress!)|
 |-----|
