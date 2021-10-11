@@ -1,4 +1,7 @@
-
+new: 
+<p align="center">
+<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
+</p>
 
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Daniel 🙋‍♂️.
@@ -8,19 +11,19 @@
 
 |Donate/Support|
 |-----|
-|<a href="https://www.patreon.com/"><img align="left" alt=" - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/"><img align="left" alt="- Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
+|<a href="https://www.patreon.com/"><img align="left" alt="Arya Shah - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/"><img align="left" alt="Arya Shah - Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 |View My Work(In Progress!)|
 |-----|
-|<a href="https://hashnode.dev"><img align="left" alt="Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/"><img align="left" alt="Dan Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io/"><img align="left" alt="Dan Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
+|<a href="https://hashnode.dev"><img align="left" alt=" Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/"><img align="left" alt="Arya's Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io"><img align="left" alt=" Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
 
 |Follow / Connect With Me|
 |-----|
-|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/"><img align="left" alt="Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt=" Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 |Follow / Connect With Me|
 |-----|
-|<a href="https://twitter.com"><img align="left" alt="- Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/"><img align="left" alt=" Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com/user/"><img align="left" alt=" Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href="mailto:"><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|<a href="https://www.linkedin.com"><img align="left" alt="n" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://twitter.com"><img align="left" alt=" Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com//"><img align="left" alt=" Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com//"><img align="left" alt=" Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href="mailto:.com"><img align="left" alt=" Person Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|<a href="https://www.linkedin.com//"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com"><img align="left" alt="s Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:a"><img align="left" alt="A Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 
@@ -30,7 +33,7 @@
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
 
 
 |Github Streak|
@@ -49,10 +52,6 @@
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-
-![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=react-dark&area=true)
-
-
 
 
 
