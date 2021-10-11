@@ -1,7 +1,7 @@
 
 
 
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Github Profile
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Github Repository
 
 
 <img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
@@ -20,11 +20,6 @@
 
 ### My Github Statistics
 
-<p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-</p>
-<br>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
 
 
 |Github Streak|
