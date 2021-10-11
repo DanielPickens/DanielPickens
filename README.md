@@ -19,16 +19,14 @@
 
 
 ### My Github Statistics
-<p align="center"> 
-  Visitor Count<br>
-<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
-</p>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
+<br>
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
 
-![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=react-dark&area=true)
+
 
 
 
