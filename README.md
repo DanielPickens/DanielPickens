@@ -20,17 +20,17 @@
 
 |Follow / Connect With Me|
 |-----|
-|<a href="https://twitter.com"><img align="left" alt="- Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/"><img align="left" alt=" Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com/user/"><img align="left" alt=" Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href="mailto:"><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|<a href="https://www.linkedin.com"><img align="left" alt="n" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt="Arya's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:arya.shah82@nmims.edu.in"><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://twitter.com"><img align="left" alt="- Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/"><img align="left" alt=" Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com/user/"><img align="left" alt=" Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href="mailto:"><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|<a href="https://www.linkedin.com"><img align="left" alt="n" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 
 ### My Github Statistics
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=DanielPickensk&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)-->
 
 
 |Github Streak|
