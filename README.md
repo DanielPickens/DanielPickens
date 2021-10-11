@@ -3,10 +3,13 @@
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my profile 🙋‍♂️
 
-<img align="left" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">
+<p align="center">
+<img align="" height='150px' src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" /><img align="" height='150px' src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I"/>
+</p>
+<img align="left" src=>
 
 
-<img align="left" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
+
 
 
 |View My Work(In Progress!)|
