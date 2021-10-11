@@ -1,7 +1,7 @@
 
 
 
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Daniel 🙋‍♂️
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Github
 
 
 <img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
@@ -27,7 +27,7 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
 
 
-|Github Streak|God Bless StackOverflow!|
+|Github Streak|
 |:-----------:|:-----:|
 
 
