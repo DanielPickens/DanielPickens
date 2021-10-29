@@ -32,7 +32,7 @@
 
 |Github Streak|God Bless StackOverflow!|
 |:-----------:|:-----:|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[!
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[![https://media.giphy.com/media/65Tr7aW4HJYdCHN082/giphy-downsized-large.gif]
 
 
 
