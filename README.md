@@ -13,7 +13,7 @@
 
 |Follow / Connect With Me|
 |-----|
-|<a href="https://www.linkedin.com/in/"><img align="left" alt="Dan's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com"><img align="left" alt="Dan's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt="Dan's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/in/"><img align="left" alt="Dan's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com"><img align="left" alt="Dan's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/>
 
 |Follow / Connect With Me|
 |-----|
