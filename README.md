@@ -1,11 +1,10 @@
 
+![giphy galaxy](https://user-images.githubusercontent.com/72703981/139491647-095bfde0-5fdd-44c0-8663-df146f2eda83.gif)
 
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thanks for visiting my profile 🙋‍♂️
 
-<img src="" width="25px">
 
-<img align="right" src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW/giphy.gif" alt="gif">
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
 |Donate/Support|
