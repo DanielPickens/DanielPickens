@@ -13,7 +13,7 @@
 
 |Follow / Connect With Me|
 |-----|
-|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/edit/17283176"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href=""><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/edit/17283176"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href=""><img align="left" alt="Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 |Follow / Connect With Me|
 |-----|
