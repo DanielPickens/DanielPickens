@@ -33,7 +33,7 @@
 
 |Github Streak|God Bless StackOverflow!|
 |:-----------:|:-----:|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=17283176theme=gotham)](https://git.io/streak-stats)|[![DanStackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=mdcmSO48oIjlQE7oAiZnAPhm&theme=dark)](https://stackoverflow.com/users/17283176/darpydarp-null)|
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17283176&theme=dark)](https://stackoverflow.com/users/17283176/darpydarp-null)|
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=DanielPickens&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
