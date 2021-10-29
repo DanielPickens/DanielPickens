@@ -4,7 +4,8 @@
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thanks for visiting my profile 🙋‍♂️
 
 
-<iframe src="https://giphy.com/embed/Q8Uq257UnqCze" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze">via GIPHY</a></p>
+![Alt Text](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
+
 
 |Donate/Support|
 |-----|
