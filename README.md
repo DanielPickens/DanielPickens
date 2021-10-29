@@ -1,9 +1,11 @@
-
+<p align="center">
+<img align="" height='150px' src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
+</p>
 
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thanks for visiting my profile 🙋‍♂️
 
-<img src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW" width="25px">
+<img src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW.gif" width="25px">
 
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
