@@ -48,7 +48,8 @@
 <p align="center">
 <img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Geometric%20White.gif" />
 </p>
-![](https://activity-graph.herokuapp.com/graph?username=DanielPickens&theme=react-dark&area=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=DanielPickensk&theme=react-dark&area=true)
 
 
 
