@@ -15,9 +15,6 @@
 |-----|
 |<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/edit/17283176"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href=""><img align="left" alt="Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
-|Follow / Connect With Me|
-|-----|
-|<a href="https://twitter.com"><img align="left" alt="- Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/"><img align="left" alt=" Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com/"><img align="left" alt="s Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href=""><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href=".edu.in"><img align="left" alt="" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 
