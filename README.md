@@ -3,9 +3,9 @@
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thanks for visiting my profile 🙋‍♂️
 
-<img src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW/giphy.gif" width="25px">
+<img src="" width="25px">
 
-<img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
+<img align="right" src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW/giphy.gif" alt="gif">
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
 |Donate/Support|
