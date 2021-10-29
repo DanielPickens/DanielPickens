@@ -4,9 +4,8 @@
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Thanks for visiting my profile 🙋‍♂️
 
 
-![Alt Text](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
 
-
+![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
 |Donate/Support|
 |-----|
 |<a href="https://www.patreon.com/"><img align="left" alt="Arya Shah - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/"><img align="left" alt="Arya Shah - Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
