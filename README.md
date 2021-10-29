@@ -30,7 +30,7 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickensk&theme=gotham)](https://git.io/streak-stats)-->
 
 
-|Github Streak|God Bless StackOverflow!|
+|Github Streak|StackOverflow|
 |:-----------:|:-----:|
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[![Dan'sStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17283176&theme=dark)](https://stackoverflow.com/users/edit/17283176)|
 
