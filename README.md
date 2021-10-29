@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://github.com/DanielPickens/blob/main/assets/Geometric.gif" alt="gif">
+<img align="right" src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Geometric.gif" alt="gif">
 
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
