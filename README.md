@@ -5,7 +5,7 @@
 
 ![Geometric](https://user-images.githubusercontent.com/72703981/139493058-add752a3-72a3-4fa6-af76-37655cbcaf53.gif)
 
-
+<img align="right" src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Geometric.gif" alt="gif">
 
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
