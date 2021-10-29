@@ -11,9 +11,8 @@
 |-----|
 |<a href="https://hashnode.dev"><img align="left" alt=" Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com"><img align="left" alt="Dan's Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io"><img align="left" alt="" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
 
-|Follow / Connect With Me|
-|-----|
- /></a><a href="https://stackoverflow.com"><img align="left" alt="Dan's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/>
+
+
 
 |Follow / Connect With Me|
 |-----|
