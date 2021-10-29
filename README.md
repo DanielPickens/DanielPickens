@@ -5,6 +5,7 @@
 
 <img src="https://giphy.com/gifs/loop-tumblr-featured-ItKQq9jkhuYBW.gif" width="25px">
 
+<img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric.gif" alt="gif">
 
 ![](https://giphy.com/gifs/89a-3d-design-art-Q8Uq257UnqCze)
 |Donate/Support|
