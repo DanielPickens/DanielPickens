@@ -31,7 +31,7 @@
 
 
 |Github Streak|God Bless StackOverflow!|
-|:-----------:|:-----:|
+
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[!
 
 
