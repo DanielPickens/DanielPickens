@@ -9,7 +9,8 @@
 
 |View My Work(In Progress!)|
 |-----|
-|<a href="https:hashnode.dev"><img align="left" alt= Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/"><img align="left" alt=" Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io/"><img align="left" alt="s Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
+|<a href="https://hashnode.dev"><img align="left" alt=" Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/"><img align="left" alt=" Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io"><img align="left" alt=" Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
+
 
 |Follow / Connect With Me|
 |-----|
