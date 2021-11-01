@@ -31,7 +31,7 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)-->
 
 
-|Github Streak|God Bless StackOverflow!|
+|Github Streak| StackOverflow|
 |:-----------:|:-----:|
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17283176&theme=dark)](https://stackoverflow.com/users/17283176/dev-metaverse)|
 
@@ -55,8 +55,3 @@
 
 
 
-<p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=DanielPickens&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielPickens" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-</p>
-<br>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)-->
