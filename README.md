@@ -12,9 +12,6 @@
 |<a href="https://hashnode.dev"><img align="left" alt=" Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/"><img align="left" alt=" Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io"><img align="left" alt=" Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
 
 
-|Follow / Connect With Me|
-|-----|
-|<a href="https://www.linkedin.com/"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt=" Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt="  Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 |Follow / Connect With Me|
 |-----|
