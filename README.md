@@ -19,13 +19,10 @@
 
 
 
-### My Github Statistics
-<p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=DanielPickens&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielPickens" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-</p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats) -->
 
 
 |Github Streak| StackOverflow|
