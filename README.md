@@ -17,7 +17,10 @@
 |-----|
 |<a href="https://twitter.com/"><img align="left" alt=" Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com//"><img align="left" alt="s Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.reddit.com/"><img align="left" alt=" Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a><a href="https://www.linkedin.com"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/"><img align="left" alt="Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:"><img align="left" alt=" Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
-
+### My Github Statistics
+<p align="center">
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=DanielPickens&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielPickens" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPickens&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
 
 
 
