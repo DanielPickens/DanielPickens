@@ -20,9 +20,26 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats) -->
 
 
 |Github Streak| StackOverflow|
 |:-----------:|:-----:|
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielPickens&theme=gotham)](https://git.io/streak-stats)|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17283176&theme=dark)](https://stackoverflow.com/users/17283176/dev-metaverse)|
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=DanielPickens&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+
+
+
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/DanielPickens/count.svg" />
+</p>
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" />
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=DanielPickens&theme=react-dark&area=true)
