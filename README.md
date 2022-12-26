@@ -1,5 +1,5 @@
 <p align="center">
-<img align="" height='150px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+<img align="" height='150px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/Readme%20GIF.gif" />
 </p>
 
 
