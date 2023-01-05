@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" />
+<img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" /><img align="" height='120px' src="https://giphy.com/embed/sULKEgDMX8LcI" /><img align="" height='120px' src="https://github.com/DanielPickens/DanielPickens/blob/main/assets/geometric%20spiral.webp" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=DanielPickens&theme=react-dark&area=true)
